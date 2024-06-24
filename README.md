@@ -15,6 +15,8 @@ Niks Translater is a Tkinter-based language translation application that uses th
 - Python 3.x
 - `tkinter` (usually included with Python)
 - `googletrans==4.0.0-rc1`
+  ```sh
+  pip install googletrans==4.0.0-rc1
 
 ### Installation
 

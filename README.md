@@ -23,4 +23,6 @@ Niks Translater is a Tkinter-based language translation application that uses th
 1. Clone the repository:
    ```sh
    git clone https://github.com/Nikhil143hub/translator.git
+   
+   ```sh
    cd translator

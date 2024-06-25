@@ -1,6 +1,6 @@
-# Niks Translator
+# Language Translator
 
-Niks Translator is a simple language translation and text-to-speech application built using Python and Tkinter. It utilizes the Google Translate API for language translation and the Google Text-to-Speech (gTTS) API for converting translated text into speech.
+Language Translator is a simple language translation and text-to-speech application built using Python and Tkinter. It utilizes the Google Translate API for language translation and the Google Text-to-Speech (gTTS) API for converting translated text into speech.
 
 ## Features
 
@@ -21,8 +21,8 @@ Niks Translator is a simple language translation and text-to-speech application 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/niks-translator.git
-   cd niks-translator
+   git clone https://github.com/your-username/translator.git
+   cd translator
 
 2.Install the required packages:
 

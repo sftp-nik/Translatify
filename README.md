@@ -1,27 +1,30 @@
-# Niks Translater
+# Niks Translator
 
-Niks Translater is a Tkinter-based language translation application that uses the Google Translate API to provide real-time translation between multiple languages. This project demonstrates skills in Python programming, GUI development, and API integration.
+Niks Translator is a simple language translation and text-to-speech application built using Python and Tkinter. It utilizes the Google Translate API for language translation and the Google Text-to-Speech (gTTS) API for converting translated text into speech.
 
 ## Features
 
-- **User-Friendly Interface:** A simple and intuitive interface designed with Tkinter.
-- **Language Support:** Supports translation between various languages using the Google Translate API.
-- **Real-Time Translation:** Quickly translates text from the source language to the desired language.
+- Translate text from one language to another using Google Translate.
+- Convert translated text into speech using Google Text-to-Speech.
+- Supports multiple languages as provided by Google Translate.
 
-## Getting Started
+## Requirements
 
-### Prerequisites
+- Python 3.6 or above
+- `googletrans` library
+- `gTTS` library
+- `playsound` library
+- `tkinter` library (usually included with Python installations)
 
-- Python 3.x
-- `tkinter` (usually included with Python)
-- `googletrans==4.0.0-rc1`
-  ```sh
-  pip install googletrans==4.0.0-rc1
-
-### Installation
+## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/Nikhil143hub/translator.git
-   
-   cd translator
+
+   ```bash
+   git clone https://github.com/your-username/niks-translator.git
+   cd niks-translator
+
+2.Install the required packages:
+
+   ```bash
+   pip install googletrans==4.0.0-rc1 gtts playsound

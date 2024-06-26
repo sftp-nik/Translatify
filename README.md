@@ -19,12 +19,10 @@ Language Translator is a simple language translation and text-to-speech applicat
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
+    ```bash
    git clone https://github.com/your-username/translator.git
    cd translator
-
-2.Install the required packages:
+2. Install the required packages:
 
    ```bash
    pip install googletrans==4.0.0-rc1 gtts playsound

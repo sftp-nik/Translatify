@@ -26,3 +26,9 @@ Language Translator is a simple language translation and text-to-speech applicat
 
    ```bash
    pip install googletrans==4.0.0-rc1 gtts playsound
+
+## Usage
+
+1. Run the script:
+   ```bash
+   python3 translator.py

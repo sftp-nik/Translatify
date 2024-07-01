@@ -31,4 +31,4 @@ Language Translator is a simple language translation and text-to-speech applicat
 
 1. Run the script:
    ```bash
-   python3 translator.py
+   python3 script.py

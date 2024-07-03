@@ -1,4 +1,6 @@
-# Language Translator
+# Translatify
+
+## Language Translator
 
 Language Translator is a simple language translation and text-to-speech application built using Python and Tkinter. It utilizes the Google Translate API for language translation and the Google Text-to-Speech (gTTS) API for converting translated text into speech.
 

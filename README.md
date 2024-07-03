@@ -2,7 +2,7 @@
 
 ## Language Translator
 
-Language Translator is a simple language translation and text-to-speech application built using Python and Tkinter. It utilizes the Google Translate API for language translation and the Google Text-to-Speech (gTTS) API for converting translated text into speech.
+Translatify is a simple language translation and text-to-speech application built using Python and Tkinter. It utilizes the Google Translate API for language translation and the Google Text-to-Speech (gTTS) API for converting translated text into speech.
 
 ## Features
 
@@ -22,8 +22,8 @@ Language Translator is a simple language translation and text-to-speech applicat
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/your-username/translator.git
-   cd translator
+   git clone https://github.com/sftp-nik/Translatify.git
+   cd Translatify
 2. Install the required packages:
 
    ```bash

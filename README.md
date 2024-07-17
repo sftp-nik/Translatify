@@ -33,4 +33,4 @@ Translatify is a simple language translation and text-to-speech application buil
 
 1. Run the script:
    ```bash
-   python3 script.py
+   python3 main.py

@@ -24,6 +24,7 @@ Translatify is a simple language translation and text-to-speech application buil
     ```bash
    git clone https://github.com/sftp-nik/Translatify.git
    cd Translatify
+    
 2. Install the required packages:
 
    ```bash

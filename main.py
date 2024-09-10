@@ -54,4 +54,3 @@ Button(window, text='Translate', command=Translate).place(x=320, y=300)
 Button(window, text='Speak', command=Speak).place(x=420, y=300)
 
 window.mainloop()
-
